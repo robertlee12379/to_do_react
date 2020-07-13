@@ -14,3 +14,4 @@
 * Created an event handler in the App component for when the checkbox is clicked, passed the method down to the TodoItem component, and updated state so that the item with the given id flippsed from false to true 
 * Stlyed the app with inline styles 
 * Utilized: React, JS, HTML, CSS
+* Tutorial by scrimba.com 
